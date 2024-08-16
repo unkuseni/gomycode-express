@@ -1,0 +1,16 @@
+{
+  "name": "gomycode-express",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "author": "unkuseni",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
